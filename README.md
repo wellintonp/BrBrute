@@ -1,9 +1,7 @@
 # BrBrute
-Ataque de força bruta fácil em português
+BrBute é um script simples de força bruta para páginas de login do site. Destina-se a ser um projeto de estudos e não se destina a uso em qualquer capacidade séria.
 
 [![Callow](logo.svg "BrBrute")](#)
-
-BrBute é um script simples de força bruta para páginas de login do site. Destina-se a ser um projeto de estudos e não se destina a uso em qualquer capacidade séria.
 
 ## Requirements
 
