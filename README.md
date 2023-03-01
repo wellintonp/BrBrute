@@ -1,5 +1,5 @@
 # BrBrute
-BrBute é um script simples de força bruta para páginas de login do site, destina-se a ser um projeto de estudos e não se destina a uso criminoso.
+BrBute é um script simples de força bruta para páginas de login em sites, destina-se a ser um projeto de estudos e não se destina a uso criminoso.
 
 [![Callow](logo.svg "BrBrute")](#)
 
