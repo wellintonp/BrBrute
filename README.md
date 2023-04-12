@@ -16,7 +16,7 @@ BrBute é um script simples de força bruta para páginas de login em sites, des
 - Clone o repositório
 
 ```sh
-git clone github.com/maximousblk/callow.git
+git clone https://github.com/wellintonp/BrBrute.git
 ```
 
 - Instalar dependências:
